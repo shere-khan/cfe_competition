@@ -10,21 +10,21 @@ Note: Some tasks might involve more people to collaborate together, so no strict
 
 - Exploratory Data Analysis(including plots)
     - Data validation
-        - Numerical features (Justin)
+        - Numerical features
             - histograms App/Den
             - imputation
-            - Correlation (Justin)
-        - Categorical features (Y)
-        - Test Data (Y)
-- Feature Engineering (Justin)
+            - Correlation
+        - Categorical features
+        - Test Data
+- Feature Engineering
     - Overview of created features and their potential contributions
     - Revisit Correlation
 - Algorithms implementation
-    - Random Forest (Yuan)
-    - Boosting (Justin)
-    - Lasso (Logistic Reg / Feature Selection) (Justin)
-    - Decision Tree (Jack)
-    - NN (Jack)
+    - Random Forest
+    - Boosting
+    - Lasso (Logistic Reg / Feature Selection)
+    - Decision Tree
+    - NN
 - Conclusion
 
 ### Presentation slides
