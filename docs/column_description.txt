@@ -1,0 +1,63 @@
+Numerical:
+ModifiedCreditScore
+ModifiedBankruptcyScore
+EmployedMonths
+PrevEmployedMonths
+CoEmployedMonths
+CoPrevEmployedMonths
+PrimeMonthlyIncome
+CoTotalMonthlyIncome
+TotalMonthlyIncome
+PrimeMonthlyLiability
+PrimeMonthlyRent
+CoMonthlyRent (has a lot of NULL values)
+TotalMonthlyDebtBeforeLoan
+VehicleYear
+VehicleMileage
+TotalVehicleValue
+AmountRequested
+DownPayment
+Loanterm
+OccupancyDuration
+EstimatedMonthlyPayment
+NumberOfOpenRevolvingAccounts
+LTV (has NULL values)
+DTI
+
+Categorical:
+Source
+OccupancyStatus
+RequestType
+MemberIndicator
+EmploymentStatus
+VehicleMake
+Other features
+isNewVehicle
+CoApplicantIndicator
+CoMonthlyLiability
+
+Response Variable:
+LoanStatus (categorical)
+
+#Important features: 
+Source: 'CONSUMER' has higher chance to get declined
+OccupancyStatus: BUYING higher the chance to approve, LIVEWITHPARENTS and RENT is thumb down.
+RequestType: INDIRECT is a thumb down
+MemberIncicator: Membership is a plus
+
+#Moderate features:
+EmploymentStatus: some effects
+VehicleMake: from the table we can see, the brands which are not so popular(less than 10,20 applications) and not luxury were tend to be declined.
+
+#Other features:(seems trivial, but can check further for interaction ect)
+isNewVehicle: not new Vehicle has slightly higher chance to be declined
+CoApplicantIndicator: N has slightly higher Declined rate, but it seems trivial
+
+
+CoMonthlyLiability
+
+
+
+Other: 
+LoanNumber (numerical id)
+AppReceiveDate (data)

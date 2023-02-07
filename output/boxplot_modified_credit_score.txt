@@ -1,0 +1,4 @@
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    0.0   610.0   664.0   640.3   720.0   850.0 
+RStudioGD 
+        2 

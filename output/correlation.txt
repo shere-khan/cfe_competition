@@ -1,0 +1,161 @@
+                              ModifiedCreditScore ModifiedBankruptcyScore EmployedMonths
+ModifiedCreditScore                    1.00000000              0.17830487    0.167541998
+ModifiedBankruptcyScore                0.17830487              1.00000000   -0.105892895
+EmployedMonths                         0.16754200             -0.10589290    1.000000000
+PrevEmployedMonths                    -0.03260019             -0.02490776   -0.162854168
+CoEmployedMonths                       0.11214169              0.06642434   -0.043172879
+PrimeMonthlyIncome                     0.24268727             -0.15087815    0.327625839
+CototalMonthlyIncome                   0.10692441              0.13480726    0.005682141
+TotalMonthlyIncome                     0.27210437             -0.02063572    0.265014354
+PrimeMonthlyLiability                  0.30296059             -0.25511611    0.193680866
+PrimeMonthlyRent                      -0.15568546              0.02144676   -0.021407168
+TotalMonthlyDebtBeforeLoan             0.24823831             -0.23418918    0.169299372
+VehicleYear                            0.05442061             -0.02852056   -0.010235230
+VehicleMileage                        -0.12882498              0.16598797   -0.157204586
+TotalVehicleValue                      0.29830658             -0.12859883    0.232098641
+AmountRequested                        0.28558987             -0.19491055    0.185883951
+DownPayment                            0.12911293              0.11307090    0.105401730
+Loanterm                               0.23342494             -0.14457235    0.139064559
+OccupancyDuration                      0.13324129             -0.02598617    0.303708047
+EstimatedMonthlyPayment                0.12341753             -0.15696551    0.092445585
+NumberOfOpenRevolvingAccounts          0.37333006             -0.22916900    0.153982817
+LTV                                   -0.04930836             -0.21738927   -0.119235998
+DTI                                    0.07162355             -0.28166067   -0.029027512
+                              PrevEmployedMonths CoEmployedMonths PrimeMonthlyIncome CototalMonthlyIncome
+ModifiedCreditScore                -0.0326001867     0.1121416877         0.24268727          0.106924411
+ModifiedBankruptcyScore            -0.0249077589     0.0664243396        -0.15087815          0.134807264
+EmployedMonths                     -0.1628541678    -0.0431728785         0.32762584          0.005682141
+PrevEmployedMonths                  1.0000000000    -0.0583467090        -0.02852320         -0.065643267
+CoEmployedMonths                   -0.0583467090     1.0000000000        -0.07109984          0.577268083
+PrimeMonthlyIncome                 -0.0285231974    -0.0710998354         1.00000000         -0.151756090
+CototalMonthlyIncome               -0.0656432671     0.5772680830        -0.15175609          1.000000000
+TotalMonthlyIncome                 -0.0711469854     0.3693782839         0.68411060          0.617112656
+PrimeMonthlyLiability              -0.0027810086     0.2684935607         0.45817165          0.359705532
+PrimeMonthlyRent                   -0.0655890054    -0.0368491337         0.10885292          0.056284009
+TotalMonthlyDebtBeforeLoan         -0.0308206041     0.2858765890         0.46833589          0.422024397
+VehicleYear                        -0.0001006346     0.0224033442         0.04499953          0.022203400
+VehicleMileage                     -0.0161024432    -0.0008417543        -0.15810923         -0.013680339
+TotalVehicleValue                  -0.1013091462    -0.0305408058         0.53628191         -0.024482893
+AmountRequested                    -0.0325917775     0.0165892484         0.44317930         -0.031308648
+DownPayment                        -0.0370744797    -0.0554300457         0.35542278         -0.048684969
+Loanterm                           -0.0317528183    -0.0142162357         0.18122906         -0.138761074
+OccupancyDuration                   0.1478337633     0.1564969964         0.01283183          0.124762788
+EstimatedMonthlyPayment            -0.0467671991    -0.0251509258         0.22632610         -0.026431393
+NumberOfOpenRevolvingAccounts      -0.1032534044     0.3116364862         0.21795952          0.290721963
+LTV                                 0.1550765642    -0.0144248771        -0.17833555         -0.046705294
+DTI                                 0.0745818074    -0.0044298733        -0.12745400         -0.009292647
+                              TotalMonthlyIncome PrimeMonthlyLiability PrimeMonthlyRent
+ModifiedCreditScore                   0.27210437           0.302960588     -0.155685459
+ModifiedBankruptcyScore              -0.02063572          -0.255116106      0.021446763
+EmployedMonths                        0.26501435           0.193680866     -0.021407168
+PrevEmployedMonths                   -0.07114699          -0.002781009     -0.065589005
+CoEmployedMonths                      0.36937828           0.268493561     -0.036849134
+PrimeMonthlyIncome                    0.68411060           0.458171655      0.108852917
+CototalMonthlyIncome                  0.61711266           0.359705532      0.056284009
+TotalMonthlyIncome                    1.00000000           0.630183946      0.128190660
+PrimeMonthlyLiability                 0.63018395           1.000000000     -0.231556908
+PrimeMonthlyRent                      0.12819066          -0.231556908      1.000000000
+TotalMonthlyDebtBeforeLoan            0.68426229           0.918972750      0.135613494
+VehicleYear                           0.05220835           0.008113693      0.048696406
+VehicleMileage                       -0.13596507          -0.160643025      0.062758689
+TotalVehicleValue                     0.40886492           0.274965232      0.064005368
+AmountRequested                       0.32970948           0.257882450      0.063115135
+DownPayment                           0.24702452           0.123818345     -0.031596091
+Loanterm                              0.04188032           0.114156328     -0.003047412
+OccupancyDuration                     0.10228093           0.125400282     -0.210142438
+EstimatedMonthlyPayment               0.16067274           0.102997958      0.044801923
+NumberOfOpenRevolvingAccounts         0.38804752           0.486060179     -0.037574913
+LTV                                  -0.17643708          -0.036003912     -0.005084020
+DTI                                  -0.10832280           0.493287466      0.035981152
+                              TotalMonthlyDebtBeforeLoan   VehicleYear VehicleMileage TotalVehicleValue
+ModifiedCreditScore                           0.24823831  0.0544206109  -0.1288249818        0.29830658
+ModifiedBankruptcyScore                      -0.23418918 -0.0285205588   0.1659879652       -0.12859883
+EmployedMonths                                0.16929937 -0.0102352301  -0.1572045861        0.23209864
+PrevEmployedMonths                           -0.03082060 -0.0001006346  -0.0161024432       -0.10130915
+CoEmployedMonths                              0.28587659  0.0224033442  -0.0008417543       -0.03054081
+PrimeMonthlyIncome                            0.46833589  0.0449995282  -0.1581092333        0.53628191
+CototalMonthlyIncome                          0.42202440  0.0222034003  -0.0136803388       -0.02448289
+TotalMonthlyIncome                            0.68426229  0.0522083519  -0.1359650664        0.40886492
+PrimeMonthlyLiability                         0.91897275  0.0081136929  -0.1606430246        0.27496523
+PrimeMonthlyRent                              0.13561349  0.0486964062   0.0627586889        0.06400537
+TotalMonthlyDebtBeforeLoan                    1.00000000  0.0300224897  -0.1338685019        0.28408533
+VehicleYear                                   0.03002249  1.0000000000   0.1826753554        0.30219719
+VehicleMileage                               -0.13386850  0.1826753554   1.0000000000       -0.35975823
+TotalVehicleValue                             0.28408533  0.3021971923  -0.3597582255        1.00000000
+AmountRequested                               0.27655954  0.0841521877  -0.5167255081        0.82641851
+DownPayment                                   0.09783012  0.0878131085   0.0730606181        0.22457251
+Loanterm                                      0.11209915  0.0577024500  -0.4535377080        0.33429176
+OccupancyDuration                             0.03779097  0.0152442015  -0.0617573173        0.12840082
+EstimatedMonthlyPayment                       0.10943225  0.0338600061  -0.3394648421        0.49782394
+NumberOfOpenRevolvingAccounts                 0.48766489 -0.0206470551  -0.0679938332        0.15454968
+LTV                                          -0.02362940 -0.3325721012  -0.2337391512       -0.33256807
+DTI                                           0.52386612 -0.0398190033  -0.0460255486       -0.07427395
+                              AmountRequested  DownPayment     Loanterm OccupancyDuration
+ModifiedCreditScore               0.285589866  0.129112931  0.233424939        0.13324129
+ModifiedBankruptcyScore          -0.194910548  0.113070896 -0.144572346       -0.02598617
+EmployedMonths                    0.185883951  0.105401730  0.139064559        0.30370805
+PrevEmployedMonths               -0.032591778 -0.037074480 -0.031752818        0.14783376
+CoEmployedMonths                  0.016589248 -0.055430046 -0.014216236        0.15649700
+PrimeMonthlyIncome                0.443179300  0.355422783  0.181229055        0.01283183
+CototalMonthlyIncome             -0.031308648 -0.048684969 -0.138761074        0.12476279
+TotalMonthlyIncome                0.329709485  0.247024521  0.041880324        0.10228093
+PrimeMonthlyLiability             0.257882450  0.123818345  0.114156328        0.12540028
+PrimeMonthlyRent                  0.063115135 -0.031596091 -0.003047412       -0.21014244
+TotalMonthlyDebtBeforeLoan        0.276559541  0.097830116  0.112099153        0.03779097
+VehicleYear                       0.084152188  0.087813108  0.057702450        0.01524420
+VehicleMileage                   -0.516725508  0.073060618 -0.453537708       -0.06175732
+TotalVehicleValue                 0.826418512  0.224572507  0.334291763        0.12840082
+AmountRequested                   1.000000000 -0.003697073  0.484491903        0.08151528
+DownPayment                      -0.003697073  1.000000000 -0.122377034        0.20476807
+Loanterm                          0.484491903 -0.122377034  1.000000000       -0.00988931
+OccupancyDuration                 0.081515284  0.204768066 -0.009889310        1.00000000
+EstimatedMonthlyPayment           0.564560683  0.020638342 -0.105682743        0.13424060
+NumberOfOpenRevolvingAccounts     0.169463212 -0.002106403  0.161062873        0.14190215
+LTV                               0.176922748 -0.374668371  0.249264938       -0.10516195
+DTI                              -0.036653252 -0.115453950 -0.005177685        0.01812551
+                              EstimatedMonthlyPayment NumberOfOpenRevolvingAccounts         LTV
+ModifiedCreditScore                       0.123417526                   0.373330058 -0.04930836
+ModifiedBankruptcyScore                  -0.156965511                  -0.229168996 -0.21738927
+EmployedMonths                            0.092445585                   0.153982817 -0.11923600
+PrevEmployedMonths                       -0.046767199                  -0.103253404  0.15507656
+CoEmployedMonths                         -0.025150926                   0.311636486 -0.01442488
+PrimeMonthlyIncome                        0.226326097                   0.217959516 -0.17833555
+CototalMonthlyIncome                     -0.026431393                   0.290721963 -0.04670529
+TotalMonthlyIncome                        0.160672737                   0.388047517 -0.17643708
+PrimeMonthlyLiability                     0.102997958                   0.486060179 -0.03600391
+PrimeMonthlyRent                          0.044801923                  -0.037574913 -0.00508402
+TotalMonthlyDebtBeforeLoan                0.109432250                   0.487664886 -0.02362940
+VehicleYear                               0.033860006                  -0.020647055 -0.33257210
+VehicleMileage                           -0.339464842                  -0.067993833 -0.23373915
+TotalVehicleValue                         0.497823939                   0.154549682 -0.33256807
+AmountRequested                           0.564560683                   0.169463212  0.17692275
+DownPayment                               0.020638342                  -0.002106403 -0.37466837
+Loanterm                                 -0.105682743                   0.161062873  0.24926494
+OccupancyDuration                         0.134240599                   0.141902151 -0.10516195
+EstimatedMonthlyPayment                   1.000000000                   0.027496780  0.04872644
+NumberOfOpenRevolvingAccounts             0.027496780                   1.000000000  0.01540862
+LTV                                       0.048726443                   0.015408623  1.00000000
+DTI                                      -0.003210254                   0.215413579  0.12115463
+                                       DTI
+ModifiedCreditScore            0.071623547
+ModifiedBankruptcyScore       -0.281660665
+EmployedMonths                -0.029027512
+PrevEmployedMonths             0.074581807
+CoEmployedMonths              -0.004429873
+PrimeMonthlyIncome            -0.127454000
+CototalMonthlyIncome          -0.009292647
+TotalMonthlyIncome            -0.108322795
+PrimeMonthlyLiability          0.493287466
+PrimeMonthlyRent               0.035981152
+TotalMonthlyDebtBeforeLoan     0.523866122
+VehicleYear                   -0.039819003
+VehicleMileage                -0.046025549
+TotalVehicleValue             -0.074273953
+AmountRequested               -0.036653252
+DownPayment                   -0.115453950
+Loanterm                      -0.005177685
+OccupancyDuration              0.018125512
+EstimatedMonthlyPayment       -0.003210254
+NumberOfOpenRevolvingAccounts  0.215413579
+LTV                            0.121154625
+DTI                            1.000000000
