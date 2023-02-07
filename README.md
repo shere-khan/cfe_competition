@@ -53,13 +53,13 @@ Note: Some tasks might involve more people to collaborate together, so no strict
 
 
 ### Report
-1. Find key numeric features that have relationships with response (LoanStatus) -- J
-2. Find other numeric features that are correlated to the key numeric features -- J (I already found these with the correlation table)
-3. Find key categorical features that have relationships with response (LoanStatus) -- Y
-4. Find other categorical features that are correlated to the key categorical features --Y
-5. include correlation table output  -- J
-6. include polyserial correlation output -- J
-7. lasso -- Y
+1. Find key numeric features that have relationships with response (LoanStatus)
+2. Find other numeric features that are correlated to the key numeric features
+3. Find key categorical features that have relationships with response (LoanStatus)
+4. Find other categorical features that are correlated to the key categorical features
+5. include correlation table output
+6. include polyserial correlation output
+7. lasso
 
 ```
 Columns With Missing Data:
